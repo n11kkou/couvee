@@ -581,7 +581,7 @@ hr{
 
 
 /* mobile adaptation */
-  @media screen and (max-width: 700px) {  /* 0 - 700px mobile */
+  @media screen and (max-width: 720px) {  /* 0 - 700px mobile */
     body{
         background-color: rgb(0, 0, 0);
     }
