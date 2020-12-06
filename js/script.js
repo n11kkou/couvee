@@ -24,12 +24,10 @@ function openNav(){
    document.body.style.overflow = "hidden"; 
 }
 function closeNav(){
-  var w = window.innerWidth;
-  if(w < 700){
    document.querySelector(".bg-text").style.display = "none";
    document.body.style.overflow = "scroll";
   } 
-}
+
 
 
 // slider //
